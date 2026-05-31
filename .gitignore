@@ -1,0 +1,24 @@
+# Python
+__pycache__/
+*.pyc
+
+# Jupyter
+.ipynb_checkpoints/
+
+# YOLO runs
+runs/
+
+# Large datasets
+datasets/
+
+# Model weights
+*.pt
+*.pth
+*.npy
+
+# VS Code
+.vscode/
+
+# Windows
+Thumbs.db
+Desktop.ini

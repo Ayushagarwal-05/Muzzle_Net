@@ -1,0 +1,16 @@
+torch
+torchvision
+ultralytics
+opencv-python
+matplotlib
+pandas
+numpy
+scikit-learn
+albumentations
+jupyterlab
+notebook
+tqdm
+pillow
+seaborn
+faiss-cpu
+qdrant-client
